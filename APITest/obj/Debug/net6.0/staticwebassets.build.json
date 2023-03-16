@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "LiJVaJ5XEVgvsFQ+vOwrsmVYzN0dnTvY1c0dkdlcs10=",
+  "Source": "APITest",
+  "BasePath": "_content/APITest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "APITest\\wwwroot",
+      "Source": "APITest",
+      "ContentRoot": "C:\\Users\\Ahmed 4 Computers\\source\\repos\\APITest\\APITest\\wwwroot\\",
+      "BasePath": "_content/APITest",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Ahmed 4 Computers\\source\\repos\\APITest\\APITest\\wwwroot\\upload\\1.png",
+      "SourceId": "APITest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmed 4 Computers\\source\\repos\\APITest\\APITest\\wwwroot\\",
+      "BasePath": "_content/APITest",
+      "RelativePath": "upload/1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmed 4 Computers\\source\\repos\\APITest\\APITest\\wwwroot\\upload\\14.jpg",
+      "SourceId": "APITest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmed 4 Computers\\source\\repos\\APITest\\APITest\\wwwroot\\",
+      "BasePath": "_content/APITest",
+      "RelativePath": "upload/14.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\14.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmed 4 Computers\\source\\repos\\APITest\\APITest\\wwwroot\\upload\\2.pig",
+      "SourceId": "APITest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmed 4 Computers\\source\\repos\\APITest\\APITest\\wwwroot\\",
+      "BasePath": "_content/APITest",
+      "RelativePath": "upload/2.pig",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\2.pig"
+    }
+  ]
+}
